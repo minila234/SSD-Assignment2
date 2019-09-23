@@ -3,7 +3,7 @@ Prerequisites
           Node.js & npm installed.
           A Google account with Google Drive enabled
           
-step 1 : clone the project 
+step 1 : clone the project.
 step 2 : go to the working directory and run the npm init command.
 step 3 : go to working directory and run the "node ."
 if not create token (but already it's created)
